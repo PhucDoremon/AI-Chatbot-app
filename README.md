@@ -1,4 +1,4 @@
-# flutter_application_1
+# AI Chatbot app using Google Gemini APIs
 
 A new Flutter project.
 
